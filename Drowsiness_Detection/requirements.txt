@@ -1,3 +1,4 @@
+cmake
 streamlit
 Pillow
 streamlit_webrtc
