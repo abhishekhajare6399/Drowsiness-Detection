@@ -2,7 +2,7 @@ streamlit
 Pillow
 streamlit_webrtc
 numpy
-scipy.spatial
+scipy
 imutils
 dlib
 cv2
