@@ -1,4 +1,5 @@
-cmake==3.22.0
+--upgrade pip
+cmake
 dlib==19.22.0
 wheel
 streamlit==1.14.0
