@@ -1,4 +1,4 @@
-CMake==3.22.0
+cmake==3.22.0
 dlib==19.22.0
 wheel
 streamlit==1.14.0
