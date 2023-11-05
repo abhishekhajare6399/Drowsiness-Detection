@@ -1,7 +1,6 @@
 streamlit
 Pillow
 streamlit_webrtc
-VideoTransformerBase
 numpy
 scipy.spatial
 imutils
