@@ -5,5 +5,5 @@ numpy
 scipy
 imutils
 dlib
-OpenCV
+opencv
 pygame
