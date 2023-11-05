@@ -1,3 +1,11 @@
+import subprocess
+
+# Upgrade pip
+subprocess.run(["python", "-m", "pip", "install", "--upgrade", "pip"])
+
+# Install dlib
+subprocess.run(["python", "-m", "pip", "install", "dlib"])
+
 import streamlit as st
 from PIL import Image
 from streamlit_webrtc import VideoTransformerBase
